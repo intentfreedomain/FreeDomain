@@ -14,8 +14,10 @@ Intent provides premium subdomains with a focus on simplicity and longevity. Our
 | Domain | Access | Requirements |
 | :--- | :--- | :--- |
 | **`.int.yt`** | Public | 4+ characters (Instant) |
-| **`.i11.eu`** | Public | 4+ characters (Instant) |
-| **`.n8.to`** | Public | Requires **IFP Key** |
+| **`.nc.to`** | Public | Requires **IFP Key** |
+| **`.gw.to`** | Public | Requires **IFP Key** |
+| **`.rh.to`** | Public | Requires **IFP Key** |
+| **`.yn.to`** | Public | Requires **IFP Key** |
 
 ### 💎 Short & Premium Domains
 By default, you can instantly register subdomains with **4 or more characters**. 

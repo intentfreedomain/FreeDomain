@@ -1,4 +1,4 @@
-# 🌐 Intent Subdomains
+# 🌐 Intent™ — A Non-Profit | Free Subdomains
 
 **Free, short, and permanent subdomains for developers and creators.**
 
